@@ -33,7 +33,8 @@ This repository contains code for a simple spam detection system using the Multi
 
 1. Clone the repository:
 
-***git clone https://github.com/yourusername/spam-detection.git***
+***git clone https://github.com/saminit2/spam-detection.git***
+
 ***cd spam-detection***
 
 
